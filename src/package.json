@@ -1,5 +1,5 @@
 {
-  "name": "@serverless/aws-cloudfront",
+  "name": "@serverless/aws-cloudfront-src",
   "version": "6.0.0",
   "main": "./serverless.js",
   "publishConfig": {
@@ -15,15 +15,5 @@
     "@serverless/platform-client": "^0.24.0",
     "aws-sdk": "^2.499.0",
     "ramda": "^0.26.1"
-  },
-  "devDependencies": {
-    "babel-eslint": "9.0.0",
-    "eslint": "5.6.0",
-    "eslint-config-prettier": "^3.6.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-prettier": "^3.0.1",
-    "fs-extra": "^8.1.0",
-    "jest": "^24.9.0",
-    "prettier": "^1.15.3"
   }
 }

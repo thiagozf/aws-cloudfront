@@ -1,0 +1,10 @@
+name: thiagozf-aws-cloudfront
+version: 0.0.1
+author: thiagozf
+org: thiagozf
+description: Deploys an AWS CloudFront Distribution
+keywords: aws, serverless, cloudfront, distribution
+repo: https://github.com/serverless-components/aws-cloudfront
+readme: ''
+license: MIT
+main: ./src
